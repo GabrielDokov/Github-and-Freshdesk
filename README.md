@@ -8,4 +8,15 @@
   <li>Finally, in terminal type   <b>node index.js</b></li>
 </ul>
 
+## Technologies
+
+<ul>
+  <li>NodeJS</li>
+  <li>JavaScript</li>
+</ul>
+
+## Unit test for the assigment
+
+<p>I will add tests later today</p>
+
 
